@@ -4,7 +4,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 ## Knowledge Gained
 
-Task 1 improved my ability to create visualizations like bar charts and histograms to display the distribution of categorical or continuous variables, facilitating clearer insights into population demographics or other datasets.
+improved my ability to create visualizations like bar charts and histograms to display the distribution of categorical or continuous variables, facilitating clearer insights into population demographics or other datasets.
 
 ## Connect with Me
 
